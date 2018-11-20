@@ -1,0 +1,39 @@
+/**
+ * @license
+ * MyFonts Webfont Build ID 3673778, 2018-11-15T09:32:59-0500
+ *
+ * The fonts listed in this notice are subject to the End User License
+ * Agreement(s) entered into by the website owner. All other parties are
+ * explicitly restricted from using the Licensed Webfonts(s).
+ *
+ * You may obtain a valid license at the URLs below.
+ *
+ * Webfont: UniversLTPro-45Light by Linotype
+ * URL: https://www.myfonts.com/fonts/linotype/univers/pro-45-light/
+ *
+ * Webfont: UniversLTPro-65Bold by Linotype
+ * URL: https://www.myfonts.com/fonts/linotype/univers/pro-65-bold/
+ *
+ *
+ * License: https://www.myfonts.com/viewlicense?type=web&buildid=3673778
+ * Licensed pageviews: 15
+ * Webfonts copyright: Copyright &#x00A9; 2014 Monotype GmbH. All rights reserved.
+ *
+ * © 2018 MyFonts Inc
+*/
+
+
+
+
+
+@font-face {
+  font-family: 'UniversLTPro-45Light';
+  src: url('webfonts/380EB2_0_0.eot');
+  src: url('webfonts/380EB2_0_0.eot?#iefix') format('embedded-opentype'),url('webfonts/380EB2_0_0.woff2') format('woff2'),url('webfonts/380EB2_0_0.woff') format('woff'),url('webfonts/380EB2_0_0.ttf') format('truetype');
+}
+
+
+@font-face {font-family: 'UniversLTPro-65Bold';
+  src: url('webfonts/380EB2_1_0.eot');
+  src: url('webfonts/380EB2_1_0.eot?#iefix') format('embedded-opentype'),url('webfonts/380EB2_1_0.woff2') format('woff2'),url('webfonts/380EB2_1_0.woff') format('woff'),url('webfonts/380EB2_1_0.ttf') format('truetype');
+}
