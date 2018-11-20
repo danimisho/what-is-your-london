@@ -230,6 +230,7 @@ img {
 /* gallery */
 
 .artist-page-gallery{
+  width: 90%
   /* Prevent vertical gaps */
   line-height: 0;
 
@@ -239,6 +240,10 @@ img {
   -moz-column-gap:      0px;
   column-count:         3;
   column-gap:           0px;
+}
+
+.artist-page-gallery > figure{
+  padding:5px;
 }
 
 /******************************************
