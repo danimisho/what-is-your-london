@@ -72,8 +72,15 @@ img {
   letter-spacing: 0.2rem;
 }
 
+.navbar-brand-logos{
+  width: 300px;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+
 .navbar-logo-image{
-  width: 64px;
+  width: 200px;
 }
 
 /* dropdown menu */
@@ -192,12 +199,14 @@ img {
 
 .footer-flexbox{
   display: flex;
-  justify-content: space-around;
+  justify-content: center;
   align-items: center;
+  margin-bottom: 25px;
 }
 
 .footer-image{
-  width: 10%;
+  width: 96px;
+  margin-left: 25px;
 }
 
 /* artist page */
