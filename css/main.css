@@ -336,10 +336,6 @@ img {
   padding:5px;
 }
 
-.make-portrait{
-  transform: rotate(270deg);
-}
-
 /******************************************
 /* HELPER CLASSES
 /*******************************************/
