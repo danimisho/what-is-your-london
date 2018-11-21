@@ -51,6 +51,12 @@ img {
   padding-bottom: 20px;
 }
 
+.project-copy{
+  width:70%;
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+
 
 /* navbar styles*/
 
@@ -172,6 +178,10 @@ img {
 
 /* thumbnail section */
 
+.photographers-section{
+  padding-top: 50px;
+}
+
 .thumbnail-section{
   width: 100%;
   margin: auto;
@@ -238,6 +248,62 @@ img {
   background-image: url("../images/photos/David/David_INTRO 4.jpg");
 }
 
+.dubheasa-hero-image{
+  background-image: url("../images/photos/Dubheasa/Dubheasa_15- resized Tida Docks Blades.jpg");
+}
+
+.timi-hero-image{
+  background-image: url("../images/photos/Timi/Timia_SeeMeNot-(1of3) 2018.jpg");
+}
+
+.jacob-hero-image{
+  background-image: url("../images/photos/Jacob/Jacob002.jpg");
+}
+
+.chanel-hero-image{
+  background-image: url("../images/photos/Chanel/Chanel_image00001.jpeg");
+}
+
+.yumi-hero-image{
+  background-image: url("../images/photos/Yumi/Yumi_3.jpg");
+}
+
+.naila-hero-image{
+  background-image: url("../images/photos/Naila/Naila_8.jpg");
+}
+
+.maria-hero-image{
+  background-image: url("../images/photos/Maria/Middle 3rd.jpg");
+}
+
+.eric-hero-image{
+  background-image: url("../images/photos/Eric/Eric Image 1.jpg");
+}
+
+.marcella-hero-image{
+  background-image: url("../images/photos/Marcella/Marcella_2brekFAST-2.jpg");
+}
+
+.rachael-hero-image{
+  background-image: url("../images/photos/Rachael/004rachael.jpg");
+}
+
+.amie-hero-image{
+  background-image: url("../images/photos/Amie/AmiePoster.jpg");
+}
+
+.shelby-hero-image{
+  background-image: url("../images/photos/Shelby/Shelby_IMG_6309Epremierremoved.jpg");
+}
+
+.vanessa-hero-image{
+  background-image: url("../images/photos/Vanessa/Vanessa_copyright 3.png");
+}
+
+.yasmin-hero-image{
+  background-image: url("../images/photos/Yasmin/Yasmin_DSCF0253-2.jpg");
+}
+
 /* gallery */
 
 .artist-page-gallery{
@@ -250,6 +316,19 @@ img {
   -moz-column-count:    3;
   -moz-column-gap:      0px;
   column-count:         3;
+  column-gap:           0px;
+}
+
+.artist-page-gallery-maria{
+  width: 90%
+  /* Prevent vertical gaps */
+  line-height: 0;
+
+  -webkit-column-count: 2;
+  -webkit-column-gap:   0px;
+  -moz-column-count:    2;
+  -moz-column-gap:      0px;
+  column-count:         2;
   column-gap:           0px;
 }
 
